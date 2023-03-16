@@ -1,0 +1,10 @@
+.titleHome{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      text-align: center;
+    }
+    
+    .imaPika{
+      display: flex;
+      align-items: center;
+    margin-left: 120px;
+    }
